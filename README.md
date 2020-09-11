@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![ignacio's github stats](https://github-readme-stats.vercel.app/api?username=xe-nvdk&count_private=true)
 <!--
 **xe-nvdk/xe-nvdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
