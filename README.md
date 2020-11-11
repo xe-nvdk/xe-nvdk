@@ -21,7 +21,7 @@ When I'm not trying to push some data to display in InfluxDB and make a template
 
 ⚡ Fun fact: I have more than, what, 10 years trying to decide if I keep my beard grow or not, so, in some photos, you will find me with or without, totally random. I love pizza and hang out with friends.
 
-Engage with my in the following social media accounts:
+Engage with me in the following social media accounts:
 
 * [Twitter](https://www.twitter.com/hectorivand/)
 * [Linkedin](https://linkedin.com/in/hectorivand)
