@@ -17,7 +17,7 @@ I work almost every day with the following technologies: [InfluxDB](https://gith
 
 I'm learning to code in Python and GO; you can find the things that I made due to this process in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
 
-When I'm not trying to push some data to display in InfluxDB and make a template of it or automatating some useless things with Terraform, I enjoy riding in my motorcycle, which is an [Husqvarna Svartpilen 401](https://www.google.com/search?q=svartpilen+401+2020&tbm=isch&ved=2ahUKEwj-p7-nuvrsAhUgArkGHVnKD2wQ2-cCegQIABAA&oq=svartpilen+401+2020&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHlD_B1jWC2DmDWgAcAB4AIABVYgB_wKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=FtSrX_7EDKCE5OUP2ZS_4AY&bih=969&biw=1920).
+When I'm not trying to push some data to display in InfluxDB and make a template of it or automating some useless things with Terraform, I enjoy riding in my motorcycle, which is an [Husqvarna Svartpilen 401](https://www.google.com/search?q=svartpilen+401+2020&tbm=isch&ved=2ahUKEwj-p7-nuvrsAhUgArkGHVnKD2wQ2-cCegQIABAA&oq=svartpilen+401+2020&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHlD_B1jWC2DmDWgAcAB4AIABVYgB_wKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=FtSrX_7EDKCE5OUP2ZS_4AY&bih=969&biw=1920).
 
 ⚡ Fun fact: I have more than, what, 10 years trying to decide if I keep my beard grow or not, so, in some photos, you will find me with or without, totally random. I love pizza and hang out with friends.
 
