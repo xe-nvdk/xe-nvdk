@@ -15,11 +15,13 @@ At this moment, I work for [Portainer](https://github.com/portainer/portainer) a
 
 I work almost every day with the following technologies: [InfluxDB](https://github.com/influxdata), [Traefik](https://github.com/traefik), [Portainer](https://github.com/portainer), [Terraform](https://github.com/hashicorp/terraform), [Docker](https://docker.com), [Kubernetes](https://github.com/kubernetes/kubernetes) (k3s), [Telegraf](https://github.com/influxdata/telegraf) so that you can ask me about any of theses! I'm not saying I'm an expert, and I don't know everything about them, but I will do my best to help you.
 
-I'm learning to code in Python and GO; you can find the things that I made due to this process in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
+I have the pleasure of being [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and win the [Founder's Choice Award in 2020](https://twitter.com/hectorivand/status/1326904489211797506?s=20). Also, I'm Traefik Ambassador thanks to my contributions spreading the word about this excellent solution.
+
+I'm learning to code in Python; due to this process I'm developing [EZCompose](/ezcompose) that is a docker-compose.yml file builder. Also, you can find others things that I made in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
 
 When I'm not trying to push some data to display in InfluxDB and make a template of it or automating some useless things with Terraform, I enjoy riding in my motorcycle, which is an [Husqvarna Svartpilen 401](https://www.google.com/search?q=svartpilen+401+2020&tbm=isch&ved=2ahUKEwj-p7-nuvrsAhUgArkGHVnKD2wQ2-cCegQIABAA&oq=svartpilen+401+2020&gs_lcp=CgNpbWcQAzICCAAyBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeMgYIABAIEB4yBggAEAgQHlD_B1jWC2DmDWgAcAB4AIABVYgB_wKSAQE1mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=FtSrX_7EDKCE5OUP2ZS_4AY&bih=969&biw=1920).
 
-⚡ Fun fact: I have more than, what, 10 years trying to decide if I keep my beard grow or not, so, in some photos, you will find me with or without, totally random. I love pizza and hang out with friends.
+⚡ Fun fact: I have more than, what, 10 years trying to decide if I keep my beard grow or not, so, in some photos, you will find me with or without it, totally random. I love pizza and hang out with friends.
 
 Engage with me in the following social media accounts:
 
