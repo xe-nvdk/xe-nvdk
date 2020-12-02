@@ -11,7 +11,7 @@
 
 I'm based in Montevideo, Uruguay and I consider myself an Ops guy. I love to learn new things and break them to see how it works. For almost 12 years I write a blog called [cduser.com](https://cduser.com/) where I dump everything that I learn (in Spanish, which is my native language). The objective behind my blog is make high technical content available is Spanish cause, all the cool stuff is written in English and for most people, (including me in the past) the language is a big stop sign.
 
-Since December 2020, I work for InfluxData, the creator of [InfluxDB](https://github.com/influxdata/influxdb) as Solution Architect.
+Since December 2020, I work for InfluxData, the creator of [InfluxDB](https://github.com/influxdata/influxdb) as Solutions Architect.
 
 I work almost every day with the following technologies: [InfluxDB](https://github.com/influxdata), [Traefik](https://github.com/traefik), [Portainer](https://github.com/portainer), [Terraform](https://github.com/hashicorp/terraform), [Docker](https://docker.com), [Kubernetes](https://github.com/kubernetes/kubernetes) (k3s), [Telegraf](https://github.com/influxdata/telegraf) so that you can ask me about any of theses! I'm not saying I'm an expert, and I don't know everything about them, but I will do my best to help you.
 
