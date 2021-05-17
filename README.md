@@ -4,6 +4,7 @@
 ### I'm Ignacio, my friends call me Nacho too. Welcome to my Github account.
 
 ![ignacio's github stats](https://github-readme-stats.vercel.app/api?username=xe-nvdk&count_private=true)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B34N5TU)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=xe-nvdk)
 
