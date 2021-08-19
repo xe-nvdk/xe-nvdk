@@ -19,6 +19,12 @@ I work almost every day with the following technologies: [InfluxDB](https://gith
 
 I have the pleasure of being [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and I won the [Founder's Choice Award in 2020](https://twitter.com/hectorivand/status/1326904489211797506?s=20). Also, I'm Traefik Ambassador thanks to my contributions spreading the word about this excellent solution.
 
+I have the following Youtube channels:
+
+[The Time Series Guy](https://www.youtube.com/channel/UCmX0g865inCgmTeIhMd75RQ): Is the new one with content related to Time Series technologies.
+
+[CDUser](https://www.youtube.com/c/CDUserIgnacioVanDroogenbroeck): Is a channel created in 2009 focused on the IT Pro community.
+
 I'm learning to code in Python; due to this process I'm developing [EZCompose](https://github.com/xe-nvdk/ezcompose) that is a docker-compose.yml file builder, and [Follow The Money](https://github.com/xe-nvdk/follow-the-money) that's a Python App to tracking money using InfluxDB as backend. Also, you can find others things that I made in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
 
 When I'm not trying to push some data to display in InfluxDB and make a template of it or automating something with Terraform, I enjoy riding in my motorcycle, which is an [Husqvarna Svartpilen 401](https://i.redd.it/tj5lwilz0g361.jpg).
