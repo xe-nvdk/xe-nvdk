@@ -21,8 +21,6 @@ I have the pleasure of being [InfluxAce](https://www.influxdata.com/blog/communi
 
 I have the following Youtube channels:
 
-[The Time Series Guy](https://www.youtube.com/channel/UCmX0g865inCgmTeIhMd75RQ): Is the new one with content related to Time Series technologies.
-
 [CDUser](https://www.youtube.com/c/CDUserIgnacioVanDroogenbroeck): Is a channel created in 2009 focused on the IT Pro community.
 
 I'm learning to code in Python; due to this process I'm developing [EZCompose](https://github.com/xe-nvdk/ezcompose) that is a docker-compose.yml file builder, and [Follow The Money](https://github.com/xe-nvdk/follow-the-money) that's a Python App to tracking money using InfluxDB as backend. Also, you can find others things that I made in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
