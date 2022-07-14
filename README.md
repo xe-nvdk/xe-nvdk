@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm based in Montevideo, Uruguay and I consider myself an Ops guy. I love to learn new things and break them to see how it works. For almost 12 years I write a blog called [cduser.com](https://cduser.com/) where I dump everything that I learn (in Spanish, which is my native language). The objective behind my blog is make high technical content available is Spanish, cause, all the cool stuff is written in English and for most people, (including me in the past) the language is a big stop sign.
+I'm based in Montevideo, Uruguay and I consider myself an Ops guy. I love to learn new things and break them to see how it works. For almost 12 years I write a blog called [cduser.com](https://cduser.com/) where I dump everything that I learn (in Spanish, which is my native language). The objective behind my blog is make high technical content available in Spanish, cause, all the cool stuff is written in English and for most people, (including me in the past) the language is a big stop sign.
 
 In December 2020, I started to work for InfluxData, the creator of [InfluxDB](https://github.com/influxdata/influxdb) as Solutions Architect nut now, I'm Senior Sales Engineer. 
 
