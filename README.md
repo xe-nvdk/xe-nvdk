@@ -1,40 +1,47 @@
-![header](https://pbs.twimg.com/profile_banners/80696545/1629289239/1500x500)
+# Hi there 👋
+### I'm Ignacio, but you can call me Nacho too. Welcome to my GitHub account!
 
-# Hi there 👋 
-### I'm Ignacio, my friends call me Nacho too. Welcome to my Github account.
-
-![ignacio's github stats](https://github-readme-stats.vercel.app/api?username=xe-nvdk&count_private=true)
+![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe-nvdk&count_private=true)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B34N5TU)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xe-nvdk)
+## About Me
 
-## About me
+I'm from Canelones, Uruguay, and see myself as a "Plug and Play" person. I love learning new things and dissecting them to understand how they work. For nearly 15 years, I've been writing a blog called [cduser.com](https://cduser.com/), a mix of Spanish and English content, aiming to make high-tech content accessible, especially for those for whom English is a barrier.
 
-I'm based in Montevideo, Uruguay and I consider myself an Ops guy. I love to learn new things and break them to see how it works. For almost 12 years I write a blog called [cduser.com](https://cduser.com/) where I dump everything that I learn (in Spanish, which is my native language). The objective behind my blog is make high technical content available in Spanish, cause, all the cool stuff is written in English and for most people, (including me in the past) the language is a big stop sign.
+My daily tools include [Python](https://python.org), [React](https://react.org), [InfluxDB](https://github.com/influxdata), [Traefik](https://github.com/traefik), [Portainer](https://github.com/portainer), [Terraform](https://github.com/hashicorp/terraform), [Docker](https://docker.com), [Kubernetes](https://github.com/kubernetes/kubernetes) (k3s), [Telegraf](https://github.com/influxdata/telegraf), and more. Feel free to ask me about these; while I'm no expert, I'm always happy to share what I know. I've been coding in backend and frontend for over a year, building tools primarily for my use.
 
-In December 2020, I started to work for InfluxData, the creator of [InfluxDB](https://github.com/influxdata/influxdb) as Solutions Architect, now I'm playing as Senior Sales Engineer working with Central of the US and Latam customers. 
+I'm an [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and won the [Founder's Choice Award in 2020](https://twitter.com/hectorivand/status/1326904489211797506?s=20). I was also a Traefik Ambassador, thanks to my contributions to this fantastic solution and community.
 
-I work almost every day with the following technologies: [InfluxDB](https://github.com/influxdata), [Traefik](https://github.com/traefik), [Portainer](https://github.com/portainer), [Terraform](https://github.com/hashicorp/terraform), [Docker](https://docker.com), [Kubernetes](https://github.com/kubernetes/kubernetes) (k3s), [Telegraf](https://github.com/influxdata/telegraf) so that you can ask me about any of these! I'm not saying I'm an expert, and I don't know everything about them, but I will do my best to help you.
+Although my YouTube channels [CDUser](https://www.youtube.com/c/CDUserIgnacioVanDroogenbroeck) are somewhat abandoned, they still offer valuable content watched by hundreds monthly.
 
-I have the pleasure of being [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and I won the [Founder's Choice Award in 2020](https://twitter.com/hectorivand/status/1326904489211797506?s=20). Also, I'm Traefik Ambassador thanks to my contributions spreading the word about this excellent solution.
+### Projects I'm Passionate About:
 
-I have the following Youtube channels:
+- **[EZCompose](https://github.com/xe-nvdk/ezcompose)**: A docker-compose file generator.
+- **[FlyOrNot](https://github.com/xe-nvdk/flyornot.today)**: A [web page](https://flyornot.today) that advises on weather conditions for flying drones or engaging in aerial sports.
+- **[Sourcesift](https://github.com/xe-nvdk/sourcesift)**: Combines a FastAPI backend with a React frontend, helping organize RSS feeds of news and podcasts.
+- **[Squeeze](https://github.com/xe-nvdk/squeeze)**: A Python tool that monitors website uptime, integrating with InfluxDB. It's a work in progress, with potential rewriting in the future (3/15/2024).
+- **Aerial Tours**: After buying a drone, I began exploring Uruguay from above, sharing videos on this [Youtube Channel](https://www.youtube.com/channel/UCTGMySjFM_4PopC6twN67xA).
 
-[CDUser](https://www.youtube.com/c/CDUserIgnacioVanDroogenbroeck): Is a channel created in 2009 focused on the IT Pro community.
+When I'm not working on data projects or automating with Terraform, I enjoy riding my motorcycle, a [Husqvarna Svartpilen 401](https://i.redd.it/tj5lwilz0g361.jpg).
 
-I'm learning to code in Python; due to this process I'm developing [EZCompose](https://github.com/xe-nvdk/ezcompose) that is a docker-compose.yml file builder, and [Follow The Money](https://github.com/xe-nvdk/follow-the-money) that's a Python App to tracking money using InfluxDB as backend. Also, you can find others things that I made in [this repo](https://github.com/xe-nvdk/learning-python). Why? Just for fun.
+⚡ Fun Facts:
 
-When I'm not trying to push some data to display in InfluxDB and make a template of it or automating something with Terraform, I enjoy riding in my motorcycle, which is an [Husqvarna Svartpilen 401](https://i.redd.it/tj5lwilz0g361.jpg).
+- I'm a BBQ and pizza enthusiast who loves hanging out with friends.
+- Riding motorcycles and bikes is therapeutic for me.
+- I have two dogs: Olivia, a 10-year companion, and Attila, a lovable terror. Check out this [LinkedIn post](https://www.linkedin.com/posts/hectorivand_stop-scrolling-stop-what-you-are-doing-right-activity-7173664291957456896-2fjG?utm_source=share&utm_medium=member_desktop) about them.
+- I recently got into drone flying, which is incredibly fun.
+- I also play drums, particularly on an electronic set.
 
-⚡ Fun fact: I have more than, what, 10 years trying to decide if I keep my beard grow or not, so, in some photos, you will find me with or without it, totally random. I love pizza and hang out with friends.
-
-Engage with me in the following social media accounts:
+Connect with me:
 
 * [Twitter](https://www.twitter.com/hectorivand/)
-* [Linkedin](https://linkedin.com/in/hectorivand)
+* [LinkedIn](https://linkedin.com/in/hectorivand)
+* [Personal Website](https://ignacio.vandroogenbroeck.net)
+* Email: ignacio[at]vandroogenbroeck[dot]net
 
-Aguante River Plate, and Go Hawks.
+Here's to the River Plate (Argentina)!
+
 <!--
 **xe-nvdk/xe-nvdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
