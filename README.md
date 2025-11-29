@@ -9,7 +9,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 
-![Ignacio's GitHub stats](https://github-readme-stats.vercel.app/api?username=xe-nvdk&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xe-nvdk&theme=dark)
 
 ## Building Arc
 I'm building [Arc](https://github.com/Basekick-Labs/arc) at Basekick Labs - unified infrastructure for metrics, logs, traces, and events. Built on DuckDB, Parquet, and Arrow with **9.47M records/sec ingestion** and the flexibility to run anywhere (local/MinIO/S3/cloud).
