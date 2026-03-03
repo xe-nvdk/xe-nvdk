@@ -12,15 +12,17 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xe-nvdk&theme=dark)
 
 ## Building Arc
-I'm building [Arc](https://github.com/Basekick-Labs/arc) at Basekick Labs - unified infrastructure for metrics, logs, traces, and events. Built on DuckDB, Parquet, and Arrow with **9.47M records/sec ingestion** and the flexibility to run anywhere (local/MinIO/S3/cloud).
+I'm building **Arc** at Basekick Labs — a columnar analytical database for product analytics, observability, AI agents, IoT, logs, and data warehousing. Built on DuckDB, Parquet, and Arrow with 10M+ records/sec ingestion and the flexibility to run anywhere (local/MinIO/S3/Azure).
 
-**Why Arc exists**: After running a time-series hosting service, I experienced every pain point firsthand - runaway costs forcing customers to delete historical data, vendor lock-in making migrations impossible, proprietary query languages limiting what you can analyze, unstable engines crashing under load. My customers were paying for infrastructure that fought them instead of serving them.
+**Why Arc exists:** After running a database hosting service, I experienced every pain point firsthand — runaway costs forcing customers to delete historical data, vendor lock-in making migrations impossible, proprietary query languages limiting what you can analyze, unstable engines crashing under load. My customers were paying for infrastructure that fought them instead of serving them.
 
-Arc solves this with standard formats (Parquet), SQL queries, and actual data freedom. No proprietary formats. No vendor lock-in. No choosing between cost and retention.
+Arc solves this with standard formats (Parquet), standard SQL (DuckDB), and actual data freedom. No proprietary formats. No vendor lock-in. No choosing between cost and retention.
 
-**Current traction**: 390+ GitHub stars in 55 days, 100+ instances running in production, paying customers migrating workloads, investor meetings in progress. Latest version 25.12.1 fully implemented in Go.
+**Current traction:** 523+ GitHub stars, #194 on DB-Engines (climbed 30 positions in 2 months), 100+ production instances, enterprise pipeline active, Arc Cloud launching March 2026. Latest version 26.03.1 fully implemented in Go.
 
-**Tech**: Go implementation delivers 130% faster throughput and 97% memory reduction vs initial Python version. One endpoint handles four data types. DuckDB for analytics. Real infrastructure, not another observability layer.
+**Tech:** Go implementation delivers 10M+ records/sec ingestion, 6M+ rows/sec queries. One endpoint handles any columnar data. DuckDB for analytics. Parquet for storage. Real infrastructure, not another observability layer.
+
+**Also building:** Liftbridge (lightweight message streaming, Kafka semantics on NATS) and Memtrace (AI agent memory layer).
 
 [Check out Arc](https://github.com/Basekick-Labs/arc) | [Read the docs](https://basekick.net)
 
@@ -41,6 +43,9 @@ Running, making BBQ and pizza with friends, flying drones, playing drums. I have
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B34N5TU)
 
 **Connect:**
+📍 Costa Rica 🇨🇷  
+* basekick.net  
+* Discord: discord.gg/nxnWfUxsdm
 * [Twitter](https://www.twitter.com/hectorivand/)
 * [LinkedIn](https://linkedin.com/in/hectorivand)
 * [Personal Site](https://ignacio.vandroogenbroeck.net)
