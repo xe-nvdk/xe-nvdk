@@ -43,6 +43,7 @@ Running, making BBQ and pizza with friends, flying drones, playing drums. I have
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B34N5TU)
 
 **Connect:**
+
 📍 Costa Rica 🇨🇷  
 * basekick.net  
 * Discord: discord.gg/nxnWfUxsdm
