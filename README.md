@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Nacho, founder of Arc - a high-performance time-series database built for engineers who need data freedom.
+### I'm Nacho, founder of Arc - a high-performance columnar analytical database built for engineers who need data freedom.
 
 [![Arc Stars](https://img.shields.io/github/stars/Basekick-Labs/arc?style=social)](https://github.com/Basekick-Labs/arc)
 [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/Basekick-Labs/arc/blob/main/LICENSE)
