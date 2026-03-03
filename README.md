@@ -44,7 +44,7 @@ Running, making BBQ and pizza with friends, flying drones, playing drums. I have
 
 **Connect:**
 
-📍 Costa Rica 🇨🇷  
+* Costa Rica 🇨🇷  
 * basekick.net  
 * Discord: discord.gg/nxnWfUxsdm
 * [Twitter](https://www.twitter.com/hectorivand/)
