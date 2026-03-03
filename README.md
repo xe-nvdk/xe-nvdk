@@ -12,7 +12,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xe-nvdk&theme=dark)
 
 ## Building Arc
-I'm building **Arc** at Basekick Labs — a columnar analytical database for product analytics, observability, AI agents, IoT, logs, and data warehousing. Built on DuckDB, Parquet, and Arrow with 10M+ records/sec ingestion and the flexibility to run anywhere (local/MinIO/S3/Azure).
+I'm building **Arc** at Basekick Labs — a columnar analytical database for product analytics, observability, AI agents, IoT, logs, and data warehousing. Built on DuckDB, Parquet, and Arrow with 18M+ records/sec ingestion and the flexibility to run anywhere (local/MinIO/S3/Azure).
 
 **Why Arc exists:** After running a database hosting service, I experienced every pain point firsthand — runaway costs forcing customers to delete historical data, vendor lock-in making migrations impossible, proprietary query languages limiting what you can analyze, unstable engines crashing under load. My customers were paying for infrastructure that fought them instead of serving them.
 
@@ -27,7 +27,7 @@ Arc solves this with standard formats (Parquet), standard SQL (DuckDB), and actu
 [Check out Arc](https://github.com/Basekick-Labs/arc) | [Read the docs](https://basekick.net)
 
 ## Background
-From Canelones, Uruguay. I've been writing [cduser.com](https://cduser.com/) for 15 years - making high-tech accessible in Spanish and English. [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and [2020 Founder's Choice Award](https://twitter.com/hectorivand/status/1326904489211797506?s=20) winner. Former Traefik Ambassador.
+From Buenos Aires, Argentina. I've been writing [cduser.com](https://cduser.com/) for 15 years - making high-tech accessible in Spanish and English. [InfluxAce](https://www.influxdata.com/blog/community-showcase/influxaces/ignacio-van-droogenbroeck/) and [2020 Founder's Choice Award](https://twitter.com/hectorivand/status/1326904489211797506?s=20) winner. Former Traefik Ambassador.
 
 **Daily stack**: Python, Go, React, Docker, Kubernetes (k3s), Terraform, Telegraf, Traefik, Portainer. I've been coding backend/frontend for production for over a year, mostly building tools that solve real problems I face.
 
