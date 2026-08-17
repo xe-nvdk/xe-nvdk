@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Nacho, founder of Arc - a high-performance columnar analytical database built for engineers who need data freedom.
+### I'm Nacho, founder of Arc - a open time series database built for engineers who need data freedom.
 
 [![Arc Stars](https://img.shields.io/github/stars/Basekick-Labs/arc?style=social)](https://github.com/Basekick-Labs/arc)
 [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://github.com/Basekick-Labs/arc/blob/main/LICENSE)
@@ -12,7 +12,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=xe-nvdk&theme=dark)
 
 ## Building Arc
-I'm building **Arc** at Basekick Labs — a columnar analytical database for product analytics, observability, AI agents, IoT, logs, and data warehousing. Built on DuckDB, Parquet, and Arrow with 18M+ records/sec ingestion and the flexibility to run anywhere (local/MinIO/S3/Azure).
+I'm building **Arc** at Basekick Labs — a open time series database for product analytics, observability, AI agents, IoT, logs, and data warehousing. Built on DuckDB, Parquet, and Arrow with 18M+ records/sec ingestion and the flexibility to run anywhere (local/MinIO/S3/Azure).
 
 **Why Arc exists:** After running a database hosting service, I experienced every pain point firsthand — runaway costs forcing customers to delete historical data, vendor lock-in making migrations impossible, proprietary query languages limiting what you can analyze, unstable engines crashing under load. My customers were paying for infrastructure that fought them instead of serving them.
 
